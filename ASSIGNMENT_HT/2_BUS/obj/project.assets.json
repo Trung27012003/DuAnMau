@@ -5956,23 +5956,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\trung\\.nuget\\packages\\": {},
+    "C:\\Users\\Trung2701\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Trungtvph28671\\TL_FPT\\SOFT205-DU_AN_MAU\\lam_bai\\ASSIGNMENT_HT\\2_BUS\\2_BUS.csproj",
+      "projectUniqueName": "C:\\Users\\Trung2701\\Source\\Repos\\Trung27012003\\DuAnMau\\ASSIGNMENT_HT\\2_BUS\\2_BUS.csproj",
       "projectName": "2_BUS",
-      "projectPath": "F:\\Trungtvph28671\\TL_FPT\\SOFT205-DU_AN_MAU\\lam_bai\\ASSIGNMENT_HT\\2_BUS\\2_BUS.csproj",
-      "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "F:\\Trungtvph28671\\TL_FPT\\SOFT205-DU_AN_MAU\\lam_bai\\ASSIGNMENT_HT\\2_BUS\\obj\\",
+      "projectPath": "C:\\Users\\Trung2701\\Source\\Repos\\Trung27012003\\DuAnMau\\ASSIGNMENT_HT\\2_BUS\\2_BUS.csproj",
+      "packagesPath": "C:\\Users\\Trung2701\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Trung2701\\Source\\Repos\\Trung27012003\\DuAnMau\\ASSIGNMENT_HT\\2_BUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Trung2701\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5987,8 +5987,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Trungtvph28671\\TL_FPT\\SOFT205-DU_AN_MAU\\lam_bai\\ASSIGNMENT_HT\\1_DAL\\1_DAL.csproj": {
-              "projectPath": "F:\\Trungtvph28671\\TL_FPT\\SOFT205-DU_AN_MAU\\lam_bai\\ASSIGNMENT_HT\\1_DAL\\1_DAL.csproj"
+            "C:\\Users\\Trung2701\\Source\\Repos\\Trung27012003\\DuAnMau\\ASSIGNMENT_HT\\1_DAL\\1_DAL.csproj": {
+              "projectPath": "C:\\Users\\Trung2701\\Source\\Repos\\Trung27012003\\DuAnMau\\ASSIGNMENT_HT\\1_DAL\\1_DAL.csproj"
             }
           }
         }
@@ -6018,7 +6018,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
